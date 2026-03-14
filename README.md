@@ -60,6 +60,4 @@ The purpose of this project is to:
 * Include interactive features using JavaScript
 
 ## Author
-Thushar K
-
 Created by **Thushar K**
