@@ -58,6 +58,3 @@ The purpose of this project is to:
 * Make the webpage responsive
 * Add more recipes
 * Include interactive features using JavaScript
-
-## Author
-Created by **Thushar K**
