@@ -1,8 +1,8 @@
-# Recipe Website
+# Recipe Webpage
 
 ## Project Description
 
-The **Recipe Website** is a simple HTML-based webpage that displays a homemade recipe in a structured and user-friendly format. The webpage includes information such as preparation time, ingredients, cooking steps, and nutritional information.
+The **Recipe Webpage** is a simple HTML-based webpage that displays a homemade recipe in a structured and user-friendly format. The webpage includes information such as preparation time, ingredients, cooking steps, and nutritional information.
 
 This project was created to practice **HTML fundamentals and semantic HTML elements** while building a real-world example of a recipe webpage.
 
